@@ -18,6 +18,9 @@
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=shauryanoobhai&label=Profile%20views&color=0e75b6&style=flat" alt="shauryanoobhai" /> </p>
 
 
+# Visitor count
+<a href="https://t.me/LeviAckerman1709"><img alt="Cute Count" src="https://count.getloli.com/get/@Shauryanoobhai?theme=rule34" /></a>
+
 
 <!--
 **Shauryanoobhai/Shauryanoobhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
