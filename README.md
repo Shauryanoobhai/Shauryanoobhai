@@ -1,6 +1,6 @@
 
 <h2 align="center">
-    ──「Hi I am Shaurya(Levi)」──
+    ──「Hɪ I ᴀᴍ Sʜᴀᴜʀʏᴀ(Lᴇᴠɪ)」──
 </h2>
 
 <div align="center">
