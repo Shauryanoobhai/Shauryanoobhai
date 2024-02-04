@@ -1,6 +1,10 @@
 
+<h2 align="center">
+    ──「Hi I am Shaurya(Levi)」──
+</h2>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=~+Hi+I+am+Shaurya+(Levi);Noob+Developer+From+India🕊️&width=350&height=100">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=~+Working+On+Telegram+Bots;Noob+Developer+From+India🕊️&width=350&height=100">
 </div>
 
 <p align="center">
