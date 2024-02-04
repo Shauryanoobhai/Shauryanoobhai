@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shaurya (Levi)</h1>
-<h3 align="center">A Student</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=──+「Shaurya+(Levi)」+──;A+Student.&width=600&height=180">
+</div>
+
+<p align="center">
+  <img src="https://telegra.ph/file/ea6dc2683eab88ae048b6.jpg">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanoobhai&label=Profile%20views&color=0e75b6&style=flat" alt="shauryanoobhai" /> </p>
 
