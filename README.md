@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://telegra.ph/file/ea6dc2683eab88ae048b6.jpg">
+  <img src="https://graph.org//file/4f5f20bd65c60a569a3b3.jpg">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanoobhai&label=Profile%20views&color=0e75b6&style=flat" alt="shauryanoobhai" /> </p>
