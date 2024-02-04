@@ -11,6 +11,7 @@
   <img src="https://graph.org//file/4f5f20bd65c60a569a3b3.jpg">
 </p>
 
+Tᴇʟᴇɢʀᴀᴍ Aᴄᴄᴏᴜɴᴛ :- [Lᴇᴠɪ](https://t.me/LeviAckerman1709)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanoobhai&label=Profile%20views&color=0e75b6&style=flat" alt="shauryanoobhai" /> </p>
 
 - 📫 How to reach me **Shaurya17092006@gmail.com**
