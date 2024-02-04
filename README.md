@@ -19,7 +19,7 @@
 
 
 # Visitor count
-<a href="https://t.me/LeviAckerman1709"><img alt="Cute Count" src="https://count.getloli.com/get/@Shauryanoobhai?theme=rule00" /></a>
+<a href="https://t.me/LeviAckerman1709"><img alt="Cute Count" src="https://count.getloli.com/get/@Shauryanoobhai?theme=rule50" /></a>
 
 
 <!--
