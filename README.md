@@ -1,6 +1,6 @@
 
 <h2 align="center">
-    ──「Hɪ I ᴀᴍ Sʜᴀᴜʀʏᴀ(Lᴇᴠɪ)」──
+    Hɪ I ᴀᴍ Sʜᴀᴜʀʏᴀ(Lᴇᴠɪ)
 </h2>
 
 <div align="center">
