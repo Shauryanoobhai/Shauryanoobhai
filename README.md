@@ -15,7 +15,12 @@
 
 ⋟ Gᴍᴀɪʟ :- **Shaurya17092006@gmail.com**
 
+## My STATS
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shauryanoobhai/count.svg" />
+</p>
 
 
 
