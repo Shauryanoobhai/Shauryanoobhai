@@ -12,6 +12,9 @@
 </p>
 
 Tᴇʟᴇɢʀᴀᴍ Aᴄᴄᴏᴜɴᴛ :- [Lᴇᴠɪ](https://t.me/LeviAckerman1709)
+
+Gᴍᴀɪʟ :- **Shaurya17092006@gmail.com**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanoobhai&label=Profile%20views&color=0e75b6&style=flat" alt="shauryanoobhai" /> </p>
 
 - 📫 How to reach me **Shaurya17092006@gmail.com**
