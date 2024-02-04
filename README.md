@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=──+「Hi+I+am+Shaurya+(Levi)」+──;Learner.&width=1000&height=1000">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=──+「Hi+I+am+Shaurya+(Levi)」+──;Learner.&width=1000&height=100">
 </div>
 
 <p align="center">
