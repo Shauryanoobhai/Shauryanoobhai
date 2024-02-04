@@ -15,7 +15,7 @@
 
 ⋟ Gᴍᴀɪʟ :- **Shaurya17092006@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanoobhai&label=Profile%20views&color=0e75b6&style=flat" alt="shauryanoobhai" /> </p>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=shauryanoobhai&label=Profile%20views&color=0e75b6&style=flat" alt="shauryanoobhai" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
